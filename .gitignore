@@ -1,0 +1,49 @@
+## Ignore the build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer logs
+*.cab
+*.log
+
+## Windows Service specific files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+## JetBrains Rider
+.idea/
+
+## VS Code directories
+.vscode/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## .NET Core directory for published output
+publish/
+
+## ASP.NET temporary files
+App_Data/
+
+## .NET Core generated files
+project.lock.json
+project.fragment.lock.json
