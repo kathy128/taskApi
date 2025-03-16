@@ -1,8 +1,11 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace TaskApi.models;
 
 public class Task{
-    public long Id { get; set; }
-    public string title { get; set; }
-    public string description { get; set; }
-    public bool complete { get; set; }
+    [Key] 
+    public Int32 Id { get; set; }
+    public string Title { get; set; }
+    public string Description { get; set; }
+    public Int32 Complete { get; set; }
 } 
