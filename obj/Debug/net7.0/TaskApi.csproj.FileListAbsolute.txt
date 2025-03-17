@@ -271,9 +271,13 @@ C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\scopedcss\bundle\TaskApi.styles.css
-C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\TaskApi.csproj.CopyComplete
 C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\TaskApi.dll
 C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\refint\TaskApi.dll
 C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\TaskApi.pdb
 C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\TaskApi.genruntimeconfig.cache
 C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\ref\TaskApi.dll
+C:\Users\user\Desktop\TaskApi\bin\Debug\net7.0\TaskApi.staticwebassets.endpoints.json
+C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\TaskApi.sourcelink.json
+C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\staticwebassets\msbuild.TaskApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Desktop\TaskApi\obj\Debug\net7.0\TaskApi.csproj.Up2Date
